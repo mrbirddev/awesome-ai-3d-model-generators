@@ -9,3 +9,6 @@ https://zhanghe3z.github.io/MaPa/
 https://wukailu.github.io/Unique3D/
 
 https://github.com/AiuniAI/Unique3D
+
+## Hyperhuman
+https://hyperhuman.deemos.com/
